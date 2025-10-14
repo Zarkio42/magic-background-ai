@@ -1,8 +1,8 @@
 # Background Mágico / Magic Background (n8n + Gemini)
 
-> **PT-BR:** Gere fundos animados/estáticos profissionais a partir de uma descrição em texto. O front-end envia o prompt para um **webhook do n8n**, que aciona a **IA Gemini** e retorna **HTML/CSS** prontos para uso. O resultado é aplicado automaticamente na página com _preview_ instantâneo e controle do background padrão do `body`.
+> Gere fundos animados/estáticos profissionais a partir de uma descrição em texto. O front-end envia o prompt para um **webhook do n8n**, que aciona a **IA Gemini** e retorna **HTML/CSS** prontos para uso. O resultado é aplicado automaticamente na página com _preview_ instantâneo e controle do background padrão do `body`.
 >
-> **EN:** Generate professional animated/static backgrounds from plain‑text prompts. The front end posts your prompt to an **n8n webhook**, which calls **Gemini AI** and returns ready‑to‑use **HTML/CSS**. The result is applied instantly to the page with a built‑in preview and toggling of the default `body` background.
+> Generate professional animated/static backgrounds from plain‑text prompts. The front end posts your prompt to an **n8n webhook**, which calls **Gemini AI** and returns ready‑to‑use **HTML/CSS**. The result is applied instantly to the page with a built‑in preview and toggling of the default `body` background.
 
 ---
 
