@@ -2,6 +2,8 @@
 
 [🚀 Deploy (Acesse aqui)](https://zarkio42.github.io/magic-background-ai/)
 
+⚠️ Usei o teste de 14 dias do N8N. Após esse período, o código não irá mais gerar o plano de fundo como deveria :[
+
 ---
 
 > Gere fundos animados/estáticos profissionais a partir de uma descrição em texto. O front-end envia o prompt para um **webhook do n8n**, que aciona a **IA Gemini** e retorna **HTML/CSS** prontos para uso. O resultado é aplicado automaticamente na página com _preview_ instantâneo e controle do background padrão do `body`.
